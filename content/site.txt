@@ -1,17 +1,17 @@
-Title: Kirby Starterkit
+Title: futureminded Group
 
 ----
 
-Author: Bastian Allgeier GmbH
+Author: futureminded Group
 
 ----
 
-Description: This is Kirby's Starterkit.
+Description: Globalisation and urbanisation are affecting everyone at some level of life, and Berlin is no exception to this. Berlin has found a way of re-emerging as a strategic urban hotspot for creativity and innovation, but with this newfound momentum our city is becoming increasingly aware of the many challenges that come with growth and change. A key factor that holds modern societies together is the health of our social structure and with this in mind, the Futureminded Group is committed to finding and supporting positive solutions to the challenges our city faces now and in the future. We believe that the future of Berlin can be shaped positively by the resourcefulness of the people that call Berlin their home.
 
 ----
 
-Keywords: Kirby, CMS, file-based
+Keywords: futureminded, berlin, business
 
 ----
 
-Copyright: © 2009-(date: Year) (link: http://getkirby.com text: Kirby)
+Copyright: © 20014-(date: Year) (link: http://future-minded.de text: futureminded Group)

@@ -2,14 +2,22 @@ Title: Home
 
 ----
 
-Text: Yay! If you are seeing this, the installation of Kirby worked. :)
+Tagline: A Berlin-based social enterprise focused on social change and leadership innovation.
 
-## Get started
+----
 
-- Go to the (link: panel text: panel) to give Kirby's admin interface a try
-- Check out the (link: http://getkirby.com/docs text: docs) and start building your own site
-- Follow (twitter: @getkirby) on Twitter for updates
-- Visit the (link: http://getkirby.com/forum text: forum) to connect with other Kirby users
-- (link: http://getkirby.com/support text: Get in contact) if you need support.
+HeroButton: Discover More
 
-**Have fun with Kirby!**
+----
+
+Intro: Globalisation and urbanisation are affecting everyone at some level of life, and Berlin is no exception to this. Berlin has found a way of re-emerging as a strategic urban hotspot for creativity and innovation, but with this newfound momentum our city is becoming increasingly aware of the many challenges that come with growth and change.
+
+----
+
+AboutHeadline: Big Goals, Significant Change
+
+----
+
+About: A key factor that holds modern societies together is the health of our social structure and with this in mind, the futureminded Group is committed to finding and supporting positive solutions to the challenges our city faces now and in the future. We believe that the future of Berlin can be shaped positively by the resourcefulness of the people that call Berlin their home.
+
+----
