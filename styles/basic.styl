@@ -44,7 +44,6 @@ body
 
   .wrapper
     width: 940px
-    padding 0 10px
     margin 0 auto
 
   .divider
@@ -74,6 +73,10 @@ h3
   -webkit-background-clip text
   -webkit-text-fill-color transparent
 
+h4
+  font-weight $fontWeightHeavy
+  margin 0 0 8px
+
 a
   color $mid
   text-decoration none
@@ -82,6 +85,10 @@ p
   font-size ($defaultFontSize*1.125)
   line-height ($defaultFontSize*1.6875)
   font-weight $fontWeightLight
+
+  &.small
+    font-size ($defaultFontSize*0.875)
+    line-height ($defaultFontSize*1.3125)
 
 blockquote
   padding-left 20px

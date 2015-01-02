@@ -21,3 +21,27 @@ AboutHeadline: Big Goals, Significant Change
 About: A key factor that holds modern societies together is the health of our social structure and with this in mind, the futureminded Group is committed to finding and supporting positive solutions to the challenges our city faces now and in the future. We believe that the future of Berlin can be shaped positively by the resourcefulness of the people that call Berlin their home.
 
 ----
+
+EducationHeadline: Education
+
+----
+
+Education: Education is a vital foundation for the flourishing of people within any given society. We support and promote innovative research-based programs to empower, equip and inspire future generations.
+
+----
+
+EngagementHeadline: Engagement
+
+----
+
+Engagement: We raise awareness on global and local social issues, and connect people and organisations looking to take action. Furthermore, we aim to close the gap between non-profit and for-profit sectors and cultivate a new means of creating social reform through entrepreneurship.
+
+----
+
+BusinessHeadline: Business & Civic Leadership
+
+----
+
+Business: Social reform requires the collaborative effort of caring citizens from every area of society. Human empathy is vital to social reform not simply donations from corporate profit. By developing opportunities to connect and work together with the civic and business communities, we create an integrative approach to social reform.
+
+----
