@@ -73,6 +73,11 @@ h3
   -webkit-background-clip text
   -webkit-text-fill-color transparent
 
+  &.big
+    font-size ($defaultFontSize*1.75)
+    line-height ($defaultFontSize*2.375)
+    margin-bottom 16px
+
 h4
   font-weight $fontWeightHeavy
   margin 0 0 8px
@@ -140,11 +145,19 @@ blockquote
 
 .button
   text-transform uppercase
+  display inline-block
+  padding 12px 24px
+  text-transform uppercase
+  font-size ($defaultFontSize*0.8125)
+  color white
+  letter-spacing 0.08em
+  font-weight $fontWeightBold
+  border-radius 4px
+  cursor: pointer
+
 
   &.rounded
-    color white
-    font-size ($defaultFontSize*0.8125)
-    letter-spacing 0.08em
+    font-weight $fontWeightRegular
     padding 5px 14px
     border-radius 100px
     background rgba(black,0.3)

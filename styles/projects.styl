@@ -1,2 +1,80 @@
 .projects
+  position relative
   height 600px
+  width 100%
+  margin 80px 0
+
+  .overlay
+    background-color rgba($darkblue,0.9)
+    position absolute
+    left 0
+    top 0
+    height 100%
+    width 100%
+    z-index: -1
+
+  .project-background
+    position absolute
+    left 0
+    top 0
+    height 100%
+    width 100%
+    z-index: -2
+    background-size cover
+
+  .project-wrapper
+    width 1180px
+    height 600px
+    margin 0 auto
+    display table
+
+    .container
+      display: table-cell
+      vertical-align: middle
+
+      .description
+        width 470px
+        display inline-block
+        vertical-align top
+        text-align: left
+
+        h2, p
+          color white
+          margin-top 0
+
+      .project-container
+        width 610px
+        display inline-block
+        float right
+
+        .project
+          &.charitywater
+            h3
+              color $charitywater
+              -webkit-text-fill-color $charitywater
+
+            .button
+              background-color $charitywater
+
+              &:hover
+                background-color darken($charitywater,10%)
+
+          .content
+            h3
+              background none
+              -webkit-background-clip none
+              -webkit-text-fill-color auto
+
+            p
+              color white
+              font-size $defaultFontSize
+              line-height: ($defaultFontSize * 1.375)
+
+            .button
+              margin-top 26px
+
+
+
+
+
+
