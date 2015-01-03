@@ -45,3 +45,13 @@ BusinessHeadline: Business & Civic Leadership
 Business: Social reform requires the collaborative effort of caring citizens from every area of society. Human empathy is vital to social reform not simply donations from corporate profit. By developing opportunities to connect and work together with the civic and business communities, we create an integrative approach to social reform.
 
 ----
+
+ProjectHeadline: Making a difference in practical ways
+
+----
+
+Project: As a company we’re involved in a number of projects that aim to mak a difference locally and globally. We aim to do something that is good and also something that benefits the cities we live in.
+
+----
+
+More: Find out more
