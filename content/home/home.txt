@@ -55,3 +55,13 @@ Project: As a company we’re involved in a number of projects that aim to mak a
 ----
 
 More: Find out more
+
+----
+
+PartnershipsHeadline: Partnerships
+
+----
+
+Partnerships: We partner with organizations across sectors in Berlin and around the world to create collaborative solutions for the well-being of society.
+
+----
