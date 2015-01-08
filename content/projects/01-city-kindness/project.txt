@@ -1,0 +1,18 @@
+Identifier:citykindness
+
+----
+
+Name: City Kindness
+
+----
+
+Intro: Futureminded co-founded City Kindness, a community focused partnership that serves some of the most marginalised people in Berlin.
+
+----
+
+Text: This partnership is made possible with the generous support of volunteers from the corporate and non-profit sectors working together to express kindness towards others. Since 2011, over 4,300 people have been impacted by these initiatives benefitting day-care centres, elderly homes, immigrant centres and community hubs.
+
+----
+
+Button: http://citykindness.de
+-----
