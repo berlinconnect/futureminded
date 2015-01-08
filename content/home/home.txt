@@ -14,20 +14,21 @@ Intro: Globalisation and urbanisation are affecting everyone at some level of li
 
 ----
 
-AboutHeadline: Big Goals, Significant Change
+AboutHeadline: Our theory of change
 
 ----
 
-About: A key factor that holds modern societies together is the health of our social structure and with this in mind, the futureminded Group is committed to finding and supporting positive solutions to the challenges our city faces now and in the future. We believe that the future of Berlin can be shaped positively by the resourcefulness of the people that call Berlin their home.
+About: We believe that the future of Berlin can be shaped positively by the resourcefulness of the people who call Berlin their home. Instead of looking either to politics or to the economy for solutions, the Futureminded Group seeks to support a collaborative innovation approach to the challenges our city faces now and in the future.
 
 ----
 
 
-ProjectHeadline: Making a difference in practical ways
+ProjectHeadline: Connecting people to create change.
 
 ----
 
-Project: As a company we’re involved in a number of projects that aim to mak a difference locally and globally. We aim to do something that is good and also something that benefits the cities we live in.
+Project: In our projects we connect people to make a difference together in their organizations, in the city of Berlin and globally.
+
 
 ----
 
@@ -85,6 +86,71 @@ EmpowerHeadline:
 
 Empower: Empower leadership innovation within their organization
 
+
+----
+
+SpeakerHeadline: Our speaker
+
+----
+
+Speaker: Our keynote speaker is Mal Fletcher, Chairman of 2020 Plus, a London-based think-tank on social change and leadership innovation. Mal is an internationally respected leader and social futurist whose social comment feature on major British media including BBC TV and Radio, Sky TV, the Sunday times and ABC.
+
+----
+
+VenueHeadline: The venue
+
+----
+
+Venue: Haus Ungarn
+Karl-Liebknecht-Straße 9
+Alexanderplatz
+Berlin
+
+----
+
+ViewMap: View Map
+
+----
+
+ContactHeadline: Get in touch with us
+
+----
+
+Contact: Thank you for your interest in futureminded. If you have any questions or if you would like to know more about the launch of 2020Plus Business & Civic Leadership event or any of the projects please feel free to drop us a line.
+
+----
+
+Address: **Address**
+futureminded Group
+Weinbergsweg 24, 
+10119, Berlin
+
+----
+
+ContactInfo: **Contact**
+Linda Guddat
+linda@futureminded.de
++49 (0) 30 95615951
+
+----
+
+NameLabel: Name
+
+----
+
+EmailLabel: Email
+
+----
+
+OrganizationLabel: Organization
+
+----
+
+MessageLabel: Message
+
+----
+
+SendLabel: Send
 
 ----
 

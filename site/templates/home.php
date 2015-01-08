@@ -68,35 +68,89 @@
 
 <section class="twentytplus">
   <div class="header center">
-    <div class="2020-logo">
+    <div class="twentytplus-logo">
     </div>
-    <h1><?= $page->plusheadline() ?></h1>
+    <h2 class="small"><?= $page->plusheadline() ?></h2>
     <div class="event-meta">
       <span class="date"><?= $page->eventdate() ?></span>
       <span class="location"><?= $page->eventlocation() ?></span>
     </div>
     <?= $page->plus()->kirbytext() ?>
-    <h2><?= $page->eventheadline() ?></h2>
-  </div>
-  <div class="wrapper">
-    <div class="cols center">
-      <div class="col col-33">
-        <img src="img/education.svg" alt="challenges">
-        <h4><?= $page->challengesheadline() ?></h4>
-        <p class="small"><?= $page->challenges() ?></p>
-      </div>
-      <div class="col col-33">
-        <img src="img/engagement.svg" alt="connect">
-        <h4><?= $page->connectheadline() ?></h4>
-        <p class="small"><?= $page->connect() ?></p>
-      </div>
-      <div class="col col-33">
-        <img src="img/business.svg" alt="empower">
-        <h4><?= $page->empowerheadline() ?></h4>
-        <p class="small"><?= $page->empower() ?></p>
+    <div class="wrapper">
+      <div class="benefits cols">
+        <div class="benefit col col-33">
+          <img src="img/understand.svg" alt="challenges">
+          <p class="small"><?= $page->challenges() ?></p>
+        </div>
+        <div class="benefit col col-33">
+          <img src="img/connect.svg" alt="connect">
+          <p class="small"><?= $page->connect() ?></p>
+        </div>
+        <div class="benefit col col-33">
+          <img src="img/empower.svg" alt="empower">
+          <p class="small"><?= $page->empower() ?></p>
+        </div>
       </div>
     </div>
-    <div class="content">
+  </div>
+  <div class="content cols">
+    <div class="speaker col col-60">
+      <div class="copy">
+        <h2><?= $page->speakerheadline() ?></h2>
+        <?= $page->speaker()->kirbytext() ?>
+      </div>
+    </div>
+    <div class="venue col col-40">
+      <div class="copy">
+        <h2><?= $page->venueheadline() ?></h2>
+        <?= $page->venue()->kirbytext() ?>
+        <a href="https://www.google.de/maps/place/Haus+Ungarn,+Karl-Liebknecht-Straße+9,+10178+Berlin/@52.5216631,13.4070552,17z/data=!3m1!4b1!4m2!3m1!1s0x47a851dffd417757:0xc73af00f815047f4" class="map">
+          <div class="map-icon">
+          </div>
+          <span class="view-map"><?= $page->viewmap() ?></span>
+        </a>
+      </div>
+    </div>
+  </div>
+  <a href="https://www.eventbrite.co.uk/e/2020plus-berlin-civic-business-leadership-event-2015-tickets-11455412447?ref=elink" class="button full-width">
+    Register for the event
+  </a>
+</section>
+
+<section class="contact">
+  <div class="wrapper">
+    <div class="cols">
+      <div class="col details col-50">
+        <h2><?= $page->contactheadline() ?></h2>
+        <?= $page->contact()->kirbytext() ?>
+        <div class="address">
+          <?= $page->address()->kirbytext() ?>
+        </div>
+        <div class="contactinfo">
+          <?= $page->contactinfo()->kirbytext() ?>
+        </div>
+      </div>
+      <div class="col form col-50">
+        <form>
+          <div>
+            <div class="icon name"></div>
+            <input class="name" placeholder="<?= $page->namelabel() ?>"/>
+          </div>
+          <div>
+            <div class="icon email"></div>
+            <input class="name" placeholder="<?= $page->emaillabel() ?>"/>
+          </div>
+          <div>
+            <div class="icon org"></div>
+            <input class="name" placeholder="<?= $page->organizationlabel() ?>"/>
+          </div>
+          <div>
+            <div class="icon message"></div>
+            <textarea class="name" placeholder="<?= $page->messagelabel() ?>"></textarea>
+          </div>
+          <input type="button" class="button" value="<?= $page->sendlabel() ?>"/>
+        </form>
+      </div>
     </div>
   </div>
 </section>

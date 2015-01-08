@@ -9,20 +9,6 @@
   width 600px
   margin 0 auto
 
-.services
-  margin 20px 0
-  .cols .col
-    padding 0 10px
-
-    img
-      margin 0 0 10px
-
-    h4
-      font-size $defaultFontSize
-
-    p.small
-      font-size ($defaultFontSize*0.875)
-
 .partnerships
   margin 0 0 80px
 
@@ -61,6 +47,128 @@
 
   .header
     position: relative
-    background url('../img/2020.jpg')
+    background url('../img/2020.jpg') fixed
+    background-position bottom center
     background-size cover
-    padding 80px 0
+    padding 120px 0
+
+    .twentytplus-logo
+      margin 0 auto
+      image('../img/2020-logo.png')
+
+    .event-meta
+      margin 20px 0
+
+      span
+        position relative
+        text-transform uppercase
+        letter-spacing 2px
+        display inline-block
+        margin 0 20px 0 14px
+        padding 0 0 0 34px
+
+        &:before
+          content ''
+          width 24px
+          height 24px
+          position absolute
+          left 0
+          top -2px
+          background-size cover
+
+        &.date:before
+          background-image url('../img/calendar.svg')
+
+        &.location:before
+          background-image url('../img/pin.svg')
+
+    h2.small
+      margin-top 10px
+
+    .event-meta + p
+      width 600px
+      margin 60px auto
+
+    .cols .col
+      margin 20px 0 0
+      padding 0 10px
+
+      img
+        margin 0 0 10px
+
+      h4
+        font-size $defaultFontSize
+
+      p.small
+        font-size ($defaultFontSize*0.875)
+
+
+  .speaker
+  .venue
+    position relative
+    height 400px
+    background-size cover
+
+    .copy
+      background darken($darkblue,20%)
+      height 100%
+      width 50%
+      padding 30px
+      box-sizing border-box
+
+      h2
+        font-size ($defaultFontSize*2.5)
+        margin 0 0 10px 0
+
+      p
+        font-size ($defaultFontSize*1.125)
+
+  .speaker
+    background-image url('../img/mal.jpg')
+    background-position center center
+
+  .venue
+    background-image url('../img/venue.jpg')
+
+    .copy
+      position absolute
+      height 60%
+      width 100%
+      bottom 0
+      left 0
+
+      p
+        display inline-block
+
+      .map
+        display inline-block
+        float right
+        margin 0 50px 0 0
+        text-align center
+
+        .map-icon
+          image('../img/map.svg')
+
+        .view-map
+          display block
+          padding-top 10px
+          text-transform uppercase
+          font-size ($defaultFontSize*0.8215)
+          font-weight $fontWeightBold
+          color white
+
+.contact
+  margin 80px 0
+
+  .details
+    padding 0 30px 0 0
+    box-sizing border-box
+
+  .address
+  .contactinfo
+    display: inline-block
+    margin-top 40px
+
+  .address
+    margin-right 30px
+

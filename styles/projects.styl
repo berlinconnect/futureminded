@@ -55,15 +55,13 @@
         color white
         padding 8px 16px
         border-radius 100px
-        box-shadow inset 0 0 1px rgba(white,0.5)
+        box-shadow inset 0 0 0 1px rgba(white,0.5)
         cursor pointer
+        transition all 600ms ease
 
         &.active
-          box-shadow none
-          background-color $blue
-
         &:hover
-          background-color $blue
+          box-shadow inset 0 0 0 100px rgba($blue,1)
 
   .overlay
     background-color rgba($darkblue,0.7)
