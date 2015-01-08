@@ -15,6 +15,7 @@
   <?php echo css('css/styles.css') ?>
 
   <?php echo js('js/libs/jquery.js') ?>
+  <?php echo js('js/libs/modernizr.js') ?>
   <?php echo js('js/main.js') ?>
 
 </head>
