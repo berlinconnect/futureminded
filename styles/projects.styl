@@ -1,8 +1,69 @@
+@keyframes fadeDelay
+  0%
+    opacity 0
+
+  50%
+    opacity 0
+
+  100%
+    opacity 1
+
+@keyframes fade
+  0%
+    opacity 0
+
+  100%
+    opacity 1
+
+@-webkit-keyframes fadeSlide
+  0%
+    opacity 0
+    -webkit-transform translateY(-30px)
+
+  100%
+    opacity 1
+    -webkit-transform translateY(0)
+
+@-moz-keyframes fadeSlide
+  0%
+    opacity 0
+    -moz-transform translateY(-30px)
+
+  100%
+    opacity 1
+    -moz-transform translateY(0)
+
 .projects
   position relative
-  height 600px
+  height auto
   width 100%
   margin 80px 0
+  transition: max-width 1s ease-in-out;
+
+  .projet-navigation
+    margin 30px 0 0 0
+    font-size 0
+
+    li
+      display inline-block
+      margin 10px 10px 0 0
+
+      a
+        display block
+        font-size ($defaultFontSize * 0.9)
+        font-weight $fontWeightHeavy
+        color white
+        padding 8px 16px
+        border-radius 100px
+        box-shadow inset 0 0 1px rgba(white,0.5)
+        cursor pointer
+
+        &.active
+          box-shadow none
+          background-color $blue
+
+        &:hover
+          background-color $blue
 
   .overlay
     background-color rgba($darkblue,0.9)
@@ -21,16 +82,18 @@
     width 100%
     z-index: -2
     background-size cover
+    display none
+    animation fade 600ms ease
+
+    &.active
+      display block
 
   .project-wrapper
     width 1180px
-    height 600px
     margin 0 auto
-    display table
 
     .container
-      display: table-cell
-      vertical-align: middle
+      padding 100px 0
 
       .description
         width 470px
@@ -48,33 +111,29 @@
         float right
 
         .project
-          &.charitywater
-            h3
-              color $charitywater
-              -webkit-text-fill-color $charitywater
+          display none
 
-            .button
-              background-color $charitywater
-
-              &:hover
-                background-color darken($charitywater,10%)
+          &.active
+            display block
 
           .content
             h3
               background none
               -webkit-background-clip none
-              -webkit-text-fill-color auto
+              color $blue
+              -webkit-text-fill-color $blue
+              animation fadeSlide 600ms ease
 
             p
               color white
               font-size $defaultFontSize
               line-height: ($defaultFontSize * 1.375)
+              animation fadeDelay 1000ms ease
 
             .button
               margin-top 26px
+              background-color $blue
+              animation fadeDelay 1500ms ease
 
-
-
-
-
-
+              &:hover
+                background-color darken($blue,10%)
