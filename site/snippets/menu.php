@@ -1,13 +1,13 @@
 <nav class="navigation" role="navigation">
   <div class="wrapper">
     <div class="logo">
-      <?php include("img/logo.svg"); ?>
+      <a href="/"><?php include("img/logo.svg"); ?></a>
     </div>
     <ul class="menu">
-      <li><a href="#">What we do</a><li>
-      <li><a href="#">Projects</a><li>
-      <li><a href="#">2020Plus</a><li>
-      <li><a href="#">Contact</a><li>
+      <li><a href="#about">What we do</a><li>
+      <li><a href="#projects">Projects</a><li>
+      <li><a href="#twentyplus">2020Plus</a><li>
+      <li><a href="#contact">Contact</a><li>
     </ul>
   </div>
 </nav>

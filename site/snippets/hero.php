@@ -2,7 +2,7 @@
   <div class="overlay dark">
     <div class="wrapper center">
       <h1><?= $page->tagline() ?></h1>
-      <a class="learn-more button rounded"><?= $page->herobutton() ?></a>
+      <a href="#intro" class="learn-more button rounded"><?= $page->herobutton() ?></a>
     </div>
   </div>
   <div class="overlay gradient"></div>

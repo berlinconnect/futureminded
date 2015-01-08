@@ -2,18 +2,18 @@
 <?php snippet('menu') ?>
 <?php snippet('hero') ?>
 
-<section class="intro center">
+<section id="intro" class="intro center">
   <h3><?= $page->intro() ?></h3>
 </section>
 
 <div class="divider"></div>
 
-<section class="about center">
+<section id="about" class="about center">
   <h2><?= $page->aboutheadline() ?></h2>
   <?= $page->about()->kirbytext() ?>
 </section>
 
-<section class="projects">
+<section id="projects" class="projects">
   <div class="project-wrapper">
     <div class="container">
       <div class="description">
@@ -60,13 +60,13 @@
       <li class="charity"></li>
       <li class="booking"></li>
       <li class="mandalah"></li>
-      <li class="soundcloud"></li>
-      <li class="bundestag"></li>
+      <li class="wasserbetriebe"></li>
+      <li class="unionhilfswerk"></li>
     </ul>
   </div>
 </section>
 
-<section class="twentytplus">
+<section id="twentyplus" class="twentytplus">
   <div class="header center">
     <div class="twentytplus-logo">
     </div>
@@ -117,7 +117,7 @@
   </a>
 </section>
 
-<section class="contact">
+<section id="contact" class="contact">
   <div class="wrapper">
     <div class="cols">
       <div class="col details col-50">
