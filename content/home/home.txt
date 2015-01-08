@@ -22,29 +22,6 @@ About: A key factor that holds modern societies together is the health of our so
 
 ----
 
-EducationHeadline: Education
-
-----
-
-Education: Education is a vital foundation for the flourishing of people within any given society. We support and promote innovative research-based programs to empower, equip and inspire future generations.
-
-----
-
-EngagementHeadline: Engagement
-
-----
-
-Engagement: We raise awareness on global and local social issues, and connect people and organisations looking to take action. Furthermore, we aim to close the gap between non-profit and for-profit sectors and cultivate a new means of creating social reform through entrepreneurship.
-
-----
-
-BusinessHeadline: Business & Civic Leadership
-
-----
-
-Business: Social reform requires the collaborative effort of caring citizens from every area of society. Human empathy is vital to social reform not simply donations from corporate profit. By developing opportunities to connect and work together with the civic and business communities, we create an integrative approach to social reform.
-
-----
 
 ProjectHeadline: Making a difference in practical ways
 
@@ -65,3 +42,49 @@ PartnershipsHeadline: Partnerships
 Partnerships: We partner with organizations across sectors in Berlin and around the world to create collaborative solutions for the well-being of society.
 
 ----
+
+PlusHeadline: Bussiness & Civic Leadership Event
+
+----
+
+EventDate: 12 March 2015
+
+----
+
+EventLocation: Berlin, Germany
+
+----
+
+Plus: Staying ahead of the change curve in a rapidly globalised world has importance for us all. With this in mind, Futureminded Group invites high-level leaders from across Berlin’s business and civic sectors to the second 2020 Plus Berlin Business and Civic Leadership Event.
+
+----
+
+EventHeadline: The event will help leaders to:
+
+----
+
+ChallengesHeadline:
+
+----
+
+Challenges: Understand how to deal with future challenges like Demographic Change, Industry 4.0 and Digital Innovation
+
+----
+
+ConnectHeadline:
+
+----
+
+Connect: Connect with intersectoral leaders from the public, private and civic sectors dealing with the same questions
+
+----
+
+EmpowerHeadline:
+
+----
+
+Empower: Empower leadership innovation within their organization
+
+
+----
+

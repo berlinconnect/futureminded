@@ -13,28 +13,6 @@
   <?= $page->about()->kirbytext() ?>
 </section>
 
-<section class="services hidden center">
-  <div class="wrapper">
-    <div class="cols">
-      <div class="col col-33">
-        <img src="img/education.svg" alt="education">
-        <h4><?= $page->educationheadline() ?></h4>
-        <p class="small"><?= $page->education() ?></p>
-      </div>
-      <div class="col col-33">
-        <img src="img/engagement.svg" alt="education">
-        <h4><?= $page->engagementheadline() ?></h4>
-        <p class="small"><?= $page->engagement() ?></p>
-      </div>
-      <div class="col col-33">
-        <img src="img/business.svg" alt="education">
-        <h4><?= $page->businessheadline() ?></h4>
-        <p class="small"><?= $page->business() ?></p>
-      </div>
-    </div>
-  </div>
-</section>
-
 <section class="projects">
   <div class="project-wrapper">
     <div class="container">
@@ -85,6 +63,41 @@
       <li class="soundcloud"></li>
       <li class="bundestag"></li>
     </ul>
+  </div>
+</section>
+
+<section class="twentytplus">
+  <div class="header center">
+    <div class="2020-logo">
+    </div>
+    <h1><?= $page->plusheadline() ?></h1>
+    <div class="event-meta">
+      <span class="date"><?= $page->eventdate() ?></span>
+      <span class="location"><?= $page->eventlocation() ?></span>
+    </div>
+    <?= $page->plus()->kirbytext() ?>
+    <h2><?= $page->eventheadline() ?></h2>
+  </div>
+  <div class="wrapper">
+    <div class="cols center">
+      <div class="col col-33">
+        <img src="img/education.svg" alt="challenges">
+        <h4><?= $page->challengesheadline() ?></h4>
+        <p class="small"><?= $page->challenges() ?></p>
+      </div>
+      <div class="col col-33">
+        <img src="img/engagement.svg" alt="connect">
+        <h4><?= $page->connectheadline() ?></h4>
+        <p class="small"><?= $page->connect() ?></p>
+      </div>
+      <div class="col col-33">
+        <img src="img/business.svg" alt="empower">
+        <h4><?= $page->empowerheadline() ?></h4>
+        <p class="small"><?= $page->empower() ?></p>
+      </div>
+    </div>
+    <div class="content">
+    </div>
   </div>
 </section>
 
