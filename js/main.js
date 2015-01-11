@@ -19,7 +19,7 @@ $(document).ready(function() {
    $('video').addClass('hidden');
   }
 
-  $(".menu-button").click(function() {
+  $(".menu-button, .menu").click(function() {
     $('.menu, .menu-button').toggleClass('active');
   });
 
