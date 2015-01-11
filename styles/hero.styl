@@ -68,13 +68,26 @@
 
 @media $media-mobile
 
-
   .hero
+    background url('../img/static-bg.jpg')
+    background-size cover
+    background-repeat no-repeat
+    background-position center center
+    height 500px
+
     video
-      height 100%
-      max-width 180%
-      width auto
+      display none
+
     .overlay
       &.dark
+
         h1
-          margin-top 160px
+          margin-top 170px
+
+@media $media-mobile-portrait
+  .hero
+    .overlay
+      &.dark
+
+        h1
+          margin-top 110px

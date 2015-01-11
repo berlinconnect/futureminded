@@ -8,12 +8,12 @@
 
 <div class="divider"></div>
 
-<section id="about" class="about center">
-  <div class="wrapper">
+<div class="wrapper">
+  <section id="about" class="about center">
     <h2><?= $page->aboutheadline() ?></h2>
     <?= $page->about()->kirbytext() ?>
-  </div>
-</section>
+  </section>
+</div>
 
 <section id="projects" class="projects">
   <div class="project-wrapper">
