@@ -15,6 +15,14 @@ $(document).ready(function() {
     });
   });
 
+  if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+   $('video').addClass('hidden');
+  }
+
+  $(".menu-button").click(function() {
+    $('.menu, .menu-button').toggleClass('active');
+  });
+
   $(".project-link:first, .project:first, .project-background:first").addClass('active');
 
   $(".project-link").click(function(ev) {
