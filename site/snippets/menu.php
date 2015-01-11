@@ -9,10 +9,10 @@
       <span></span>
     </div>
     <ul class="menu">
-      <li><a href="#about">What we do</a></li>
-      <li><a href="#projects">Projects</a></li>
-      <li><a href="#twentyplus">2020Plus</a></li>
-      <li><a href="#contact">Contact</a></li>
+      <li><a href="#focus"><?= $site->focus() ?></a></li>
+      <li><a href="#projects"><?= $site->projects() ?></a></li>
+      <li><a href="#twentyplus"><?= $site->link2020() ?></a></li>
+      <li><a href="#contact"><?= $site->contact() ?></a></li>
     </ul>
   </div>
 </nav>

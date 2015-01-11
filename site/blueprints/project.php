@@ -7,13 +7,19 @@ files:
 fields:
   title:
     label: Title
+    type: text
+  identifier:
+    label: Unique ID
     type:  text
-  year:
-    label: Year
+  name:
+    label: Project Name
     type:  text
+  intro:
+    label: Intro Text
+    type:  textarea
   text:
     label: Text
     type:  textarea
-  tags:
-    label: Tags
-    type:  tags
+  button:
+    label: Link
+    type:  text

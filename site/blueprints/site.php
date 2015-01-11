@@ -18,3 +18,15 @@ fields:
   copyright:
     label: Copyright
     type:  textarea
+  focus:
+    label: Focus
+    type:  text
+  projects:
+    label: Projects
+    type:  text
+  link2020:
+    label: 2020Plus
+    type:  text
+  contact:
+    label: Contact
+    type:  text

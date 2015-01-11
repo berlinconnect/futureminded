@@ -1,0 +1,21 @@
+Identifier: walkforfreedom
+
+----
+
+Name: Walk for Freedom
+
+----
+
+Intro: Der „Walk for Freedom“ setzt weltweit am “Europatag gegen Menschenhandel” ein Zeichen gegen Menschenhandel und die damit verbundene Zwangsarbeit und Zwangsprostitution.
+
+----
+
+Text: Initiiert von der internationalen Organisation „The A21 Campaign“ nahmen über 2.000 Teilnehmende in über 30 Ländern teil, um Aufmerksamkeit für diese Problematik zu schaffen und den Opfen des Menschenhandels eine Stimme zu geben. Im Oktober 2014 schlossen sich auch in Berlin 160 Frauen und Männern dem “Walk for Freedom” an und liefen vom Brandenburger Tor zum Reichstagsgebäude. Dies wurde von der Futureminded Group organisiert und geleitet.
+
+----
+
+Button: http://www.berliner-zeitung.de/berlin/-walk-for-freedom--in-berlin-frauen-demonstrieren-gegen-menschenhandel,10809148,28771042.html
+
+----
+
+Title: walk-for-freedom

@@ -1,0 +1,21 @@
+Identifier: shine
+
+----
+
+Name: Shine & Strength
+
+----
+
+Intro: Unter dem Titel “Shine und Strenght Berlin” entwickelt die Futureminded Group Persönlichkeitsentwicklungs-Programme für junge Menschen.
+
+----
+
+Text: Durch den Einsatz von kreativen und inspirierenden Lernansätzen fördert Shine und Strenght Interesse an sozialem und gesellschaftlichem Engagement unter Mädchen und Jungs. Dies geschieht in Kollaboration mit bereits bestehenden Jugendorganisationen in Berlin
+
+----
+
+Button: #
+
+----
+
+Title: shine-strength

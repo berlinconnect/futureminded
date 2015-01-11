@@ -63,10 +63,6 @@ EventHeadline: The event will help leaders to:
 
 ----
 
-ChallengesHeadline:
-
-----
-
 Challenges: Understand how to deal with future challenges like Demographic Change, Industry 4.0 and Digital Innovation
 
 ----

@@ -9,7 +9,7 @@
 <div class="divider"></div>
 
 <div class="wrapper">
-  <section id="about" class="about center">
+  <section id="focus" class="about center">
     <h2><?= $page->aboutheadline() ?></h2>
     <?= $page->about()->kirbytext() ?>
   </section>
