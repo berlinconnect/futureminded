@@ -43,7 +43,9 @@ body
   color $dark
 
   .wrapper
-    width: 940px
+    box-sizing border-box
+    width 940px
+    padding 0 20px
     margin 0 auto
 
   .divider
@@ -234,3 +236,45 @@ input[type=button]
 
   &.message
     background-image url('../img/form/message.svg')
+
+
+@media $media-tablet-portrait
+
+  body
+    .wrapper
+      width 100%
+
+@media $media-mobile
+
+  h1
+    font-size ($defaultFontSize*2.4)
+
+  h2
+    font-size ($defaultFontSize*2.1)
+    line-height ($defaultFontSize*2.7)
+
+    &.small
+      font-size ($defaultFontSize*1.8)
+      line-height ($defaultFontSize*2.0)
+
+  h3
+    font-size ($defaultFontSize*1.5)
+    line-height ($defaultFontSize*2.1)
+
+    &.big
+      font-size ($defaultFontSize*1.65)
+      line-height ($defaultFontSize*2.175)
+      margin-bottom 16px
+
+  p
+    font-size ($defaultFontSize*1.0)
+    line-height ($defaultFontSize*1.8)
+
+    &.small
+      font-size ($defaultFontSize*0.875)
+      line-height ($defaultFontSize*1.3125)
+
+  .button
+    &.full-width
+      font-size ($defaultFontSize*2)
+      padding 15px 0

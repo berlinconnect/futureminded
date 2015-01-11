@@ -23,6 +23,7 @@
       display inline-block
       vertical-align: middle
       margin 20px 25px 0
+      max-width 300px
 
       &.a21
         image-retina('../img/partnerships/a21.png')
@@ -48,8 +49,8 @@
 
   .header
     position: relative
-    background url('../img/2020.jpg') fixed
-    background-position bottom center
+    background url('../img/2020.jpg')
+    background-position center center
     background-size cover
     padding 120px 0
 
@@ -173,3 +174,142 @@
   .address
     margin-right 30px
 
+@media $media-tablet
+
+  .twentytplus
+    .speaker
+      background-position -100px center
+
+      .copy
+        width 63%
+        padding 20px
+
+    .venue
+      .copy
+        .map
+          display inline-block
+          float right
+          margin 0
+          text-align center
+
+@media $media-tablet-portrait
+
+  .twentytplus
+    .header
+      background url('../img/2020.jpg')
+      background-position center center
+      background-size cover
+
+    .speaker
+      width 100%
+      background-position right center
+
+      .copy
+        width 50%
+
+    .venue
+      width 100%
+
+@media $media-full-width
+
+  .intro
+    width 100%
+    padding 80px 20px
+
+
+@media $media-mobile
+
+  .about
+    width 100%
+
+  .partnerships
+    p
+      width 100%
+
+    ul
+      margin 30px 0 0
+
+      li
+        margin 20px 0 20px
+        max-width 300px
+
+  .twentytplus
+    .header
+      padding 80px 0
+
+      .twentytplus-logo
+        width 300px
+        height 40px
+        background-size contain
+        background-repeat no-repeat
+
+      .event-meta
+        span
+          margin 0 20px 30px 14px
+
+      .event-meta + p
+        width 100%
+        padding 0 20px
+        box-sizing border-box
+
+    .speaker
+    .venue
+      .copy
+        h2
+          font-size ($defaultFontSize*2.1)
+          line-height ($defaultFontSize*2.7)
+
+        p
+          font-size ($defaultFontSize*1)
+
+    .speaker
+      width 100%
+      background-position top center
+      background-size cover
+      height auto
+      padding 0 !important
+
+      .copy
+        left 0
+        width 100%
+        margin 0
+        padding 30px
+
+  .contact
+    text-align center
+
+    .details
+      padding 0 20px
+      width 100%
+
+      .address
+        margin-right 0
+
+    .form
+      margin 60px 0 0
+      width 100%
+
+  footer
+    text-align center
+
+    .menu
+      clear both
+      float none
+
+@media $media-mobile-portrait
+
+  .twentytplus
+    .header
+      padding 80px  0  40px
+
+      .event-meta
+        margin 40px 0 0
+
+      .event-meta + p
+
+        margin 20px 0
+
+      .cols .col
+        margin 0
+        padding 0 10px 30px
+        width 100% !important

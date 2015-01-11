@@ -9,8 +9,10 @@
 <div class="divider"></div>
 
 <section id="about" class="about center">
-  <h2><?= $page->aboutheadline() ?></h2>
-  <?= $page->about()->kirbytext() ?>
+  <div class="wrapper">
+    <h2><?= $page->aboutheadline() ?></h2>
+    <?= $page->about()->kirbytext() ?>
+  </div>
 </section>
 
 <section id="projects" class="projects">
