@@ -33,3 +33,11 @@ Link2020: 2020Plus
 Contact: Contact
 
 ----
+
+Imprint: Imprint
+
+----
+
+Press: Press
+
+----

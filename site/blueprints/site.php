@@ -30,3 +30,6 @@ fields:
   contact:
     label: Contact
     type:  text
+  imprint:
+    label: Imprint
+    type: text
