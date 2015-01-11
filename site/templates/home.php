@@ -79,6 +79,7 @@
     </div>
     <?= $page->plus()->kirbytext() ?>
     <div class="wrapper">
+      <h2 class="small"><?= $page->eventheadline() ?></h2>
       <div class="benefits cols">
         <div class="benefit col col-33">
           <img src="img/understand.svg" alt="challenges">
