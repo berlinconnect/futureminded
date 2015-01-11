@@ -10,9 +10,9 @@ Intro: Shine and Strength Berlin are personal development and leadership program
 
 ----
 
-Text: Using inspirational, practical and experiential approaches to learning, youth are equipped to become healthy and resilient urban citizens. For these programs, Futureminded youth workers collaborate with youth initiatives and established youth organisations in Berlin.
+Text: Using inspirational, practical and experiential approaches to learning, youth are equipped to become healthy and resilient urban citizens. For these programs, Futureminded youth workers collaborate with youth initiatives and established youth organisations in Berlin
 
 ----
 
-Button: http://www.berliner-zeitung.de/berlin/-walk-for-freedom--in-berlin-frauen-demonstrieren-gegen-menschenhandel,10809148,28771042.html
+Button: #
 -----

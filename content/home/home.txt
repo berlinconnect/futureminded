@@ -2,7 +2,7 @@ Title: Home
 
 ----
 
-Tagline: A Berlin-based social enterprise focused on social change and leadership innovation.
+Tagline: A Berlin-based social enterprise focused on social entrepreneurship and leadership innovation.
 
 ----
 
@@ -10,15 +10,14 @@ HeroButton: Discover More
 
 ----
 
-Intro: Globalisation and urbanisation are affecting everyone at some level of life, and Berlin is no exception to this. Berlin has found a way of re-emerging as a strategic urban hotspot for creativity and innovation, but with this newfound momentum our city is becoming increasingly aware of the many challenges that come with growth and change.
+Intro: Globalisation and urbanisation are major influences in today’s world impacting many cities on various levels and Berlin is no exception to this. Berlin has found a way of re-emerging as a strategic urban hotspot for creativity and innovation. However, our city is becoming increasingly aware of the many challenges that come with this newfound momentum.
+----
+
+AboutHeadline: Opportunity
 
 ----
 
-AboutHeadline: Our theory of change
-
-----
-
-About: We believe that the future of Berlin can be shaped positively by the resourcefulness of the people who call Berlin their home. Instead of looking either to politics or to the economy for solutions, the Futureminded Group seeks to support a collaborative innovation approach to the challenges our city faces now and in the future.
+About: We believe that the future of Berlin can be shaped positively by the resourcefulness of the people who live here and call Berlin their home. Futureminded Group proactively seeks to support a collaborative innovation approach to the challenges our city faces now and in the future.
 
 ----
 
@@ -27,7 +26,7 @@ ProjectHeadline: Connecting people to create change.
 
 ----
 
-Project: In our projects we connect people to make a difference together in their organizations, in the city of Berlin and globally.
+Project: In our projects we connect people to make a difference together in their organizations, in the city of Berlin and beyond.
 
 
 ----
@@ -36,11 +35,11 @@ More: Find out more
 
 ----
 
-PartnershipsHeadline: Partnerships
+PartnershipsHeadline: Local & Global Involvement
 
 ----
 
-Partnerships: We partner with organizations across sectors in Berlin and around the world to create collaborative solutions for the well-being of society.
+Partnerships: By getting involved with organisations across various sectors in Berlin and around the world we get the opportunity to serve and contribute to the well-being of society.
 
 ----
 
