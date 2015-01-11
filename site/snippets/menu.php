@@ -9,10 +9,10 @@
       <span></span>
     </div>
     <ul class="menu">
-      <li><a href="#focus"><?= $site->focus() ?></a></li>
-      <li><a href="#projects"><?= $site->projects() ?></a></li>
-      <li><a href="#twentyplus"><?= $site->link2020() ?></a></li>
-      <li><a href="#contact"><?= $site->contact() ?></a></li>
+      <li><a class="scroller" href="<?php if(!$page->isHomepage()): ?><?= $site->url() ?><? endif ?>#focus"><?= $site->focus() ?></a></li>
+      <li><a class="scroller" href="<?php if(!$page->isHomepage()): ?><?= $site->url() ?><? endif ?>#projects"><?= $site->projects() ?></a></li>
+      <li><a class="scroller" href="<?php if(!$page->isHomepage()): ?><?= $site->url() ?><? endif ?>#twentyplus"><?= $site->link2020() ?></a></li>
+      <li><a class="scroller" href="<?php if(!$page->isHomepage()): ?><?= $site->url() ?><? endif ?>#contact"><?= $site->contact() ?></a></li>
     </ul>
   </div>
 </nav>
