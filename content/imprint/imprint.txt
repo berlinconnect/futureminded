@@ -6,7 +6,7 @@ Text: ##Legal Information
 fmg futureminded group gUG (haftungsbeschränkt) i. G.
 Ansprechpartner/Contact: David Berndt
 Weinbergsweg 24, 10119 Berlin
-Email: (link:david@futureminded.de)
+Email: (email:david@futureminded.de)
 Phone: +49 (0) 30 9561 5951
 
 ##Privacy Statement
@@ -24,4 +24,4 @@ This website uses Google Analytics, a web analysis service of Google Inc. (Googl
 ##Disclosure
 According to the Federal Data Protection Act, you have a right to free-of-charge information about your stored data, and possibly entitlement to correction, blocking or deletion of such data. Inquiries can be directed to the following e-mail address: (email: david@futureminded.de)
 
-Source: (link: twigg.de)
+Source: (link: http://twigg.de)
