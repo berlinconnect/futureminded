@@ -133,30 +133,31 @@
         </div>
       </div>
         <div class="col form col-50" id="contact_form">
-          <div id="contact_results"></div>
-          <div id="contact_body">
-            
+          <form autocomplete="off">
+            <div id="contact_results"></div>
+            <div id="contact_body">
               <div>
-                  <div class="icon name"></div>
-                  <input type="text" name="name" id="name" required="true" placeholder="Name" class="name"/>
+                <div class="icon name"></div>
+                <input type="text" name="name" id="name" required="true" placeholder="<?= $page->namelabel() ?>" class="name"/>
               </div>
 
               <div>
-                  <div class="icon email"></div>
-                  <input type="email" name="email" required="true" placeholder="Email" class="name"/>
+                <div class="icon email"></div>
+                <input type="email" name="email" required="true" placeholder="<?= $page->emaillabel() ?>" class="name"/>
               </div>
-                  
+
               <div>
-                  <div class="icon org"></div>
-                  <input type="text" name="org" required="true" placeholder="Organisation" class="name"/>
+                <div class="icon org"></div>
+                <input type="text" name="org" required="true" placeholder="<?= $page->organizationlabel() ?>" class="name"/>
               </div>
-              
+
               <div>
-                  <div class="icon message"></div>
-                   <textarea name="message" id="message" class="name" required="true" placeholder="Message"></textarea>
+                <div class="icon message"></div>
+                <textarea name="message" id="message" class="name" required="true" placeholder="<?= $page->messagelabel() ?>"></textarea>
               </div>
-              <input type="button" id="submit_btn" value="Send"/>
-          </div>
+              <input type="button" class="button" id="submit_btn" value="Send"/>
+            </div>
+          </form>
         </div>
 
       </div>
