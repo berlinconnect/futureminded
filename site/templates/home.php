@@ -132,26 +132,33 @@
           <?= $page->contactinfo()->kirbytext() ?>
         </div>
       </div>
-      <div class="col form col-50">
-        <form>
-          <div>
-            <div class="icon name"></div>
-            <input class="name" placeholder="<?= $page->namelabel() ?>"/>
+        <div class="col form col-50" id="contact_form">
+          <div id="contact_results"></div>
+          <div id="contact_body">
+            
+              <div>
+                  <div class="icon name"></div>
+                  <input type="text" name="name" id="name" required="true" placeholder="Name" class="name"/>
+              </div>
+
+              <div>
+                  <div class="icon email"></div>
+                  <input type="email" name="email" required="true" placeholder="Email" class="name"/>
+              </div>
+                  
+              <div>
+                  <div class="icon org"></div>
+                  <input type="text" name="org" required="true" placeholder="Organisation" class="name"/>
+              </div>
+              
+              <div>
+                  <div class="icon message"></div>
+                   <textarea name="message" id="message" class="name" required="true" placeholder="Message"></textarea>
+              </div>
+              <input type="button" id="submit_btn" value="Send"/>
           </div>
-          <div>
-            <div class="icon email"></div>
-            <input class="name" placeholder="<?= $page->emaillabel() ?>"/>
-          </div>
-          <div>
-            <div class="icon org"></div>
-            <input class="name" placeholder="<?= $page->organizationlabel() ?>"/>
-          </div>
-          <div>
-            <div class="icon message"></div>
-            <textarea class="name" placeholder="<?= $page->messagelabel() ?>"></textarea>
-          </div>
-          <input type="button" class="button" value="<?= $page->sendlabel() ?>"/>
-        </form>
+        </div>
+
       </div>
     </div>
   </div>
