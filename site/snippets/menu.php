@@ -11,7 +11,7 @@
     <ul class="menu">
       <li><a class="scroller" href="<?php if(!$page->isHomepage()): ?><?= $site->url() ?><? endif ?>#focus"><?= $site->focus() ?></a></li>
       <li><a class="scroller" href="<?php if(!$page->isHomepage()): ?><?= $site->url() ?><? endif ?>#projects"><?= $site->projects() ?></a></li>
-      <li><a class="scroller" href="<?php if(!$page->isHomepage()): ?><?= $site->url() ?><? endif ?>#twentyplus"><?= $site->link2020() ?></a></li>
+      <li><a class="scroller" href="<?php if(!$page->isHomepage()): ?><?= $site->url() ?><? endif ?>#2020plus"><?= $site->link2020() ?></a></li>
       <li><a class="scroller" href="<?php if(!$page->isHomepage()): ?><?= $site->url() ?><? endif ?>#contact"><?= $site->contact() ?></a></li>
     </ul>
   </div>
