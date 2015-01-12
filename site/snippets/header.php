@@ -9,6 +9,9 @@
   <meta name="description" content="<?php echo $site->description()->html() ?>">
   <meta name="keywords" content="<?php echo $site->keywords()->html() ?>">
 
+  <link rel="icon" type="image/png" href="../assets/images/favicon-32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="../assets/images/favicon-16.png" sizes="16x16" />
+
   <script src="//use.typekit.net/ajy4pec.js"></script>
   <script>try{Typekit.load();}catch(e){}</script>
 
