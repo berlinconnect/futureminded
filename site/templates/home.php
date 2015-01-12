@@ -68,7 +68,7 @@
   </div>
 </section>
 
-<section id="twentyplus" class="twentytplus">
+<section id="2020plus" class="twentyplus">
   <div class="header center">
     <div class="twentytplus-logo">
     </div>

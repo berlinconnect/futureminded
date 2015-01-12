@@ -2,7 +2,7 @@ Title: Home
 
 ----
 
-Tagline: Ein gemeinnütziges Unternehmen mit Fokus auf Sozial-Unternehmertum und Führungsinnovation für Berlin.
+Tagline: Ein gemeinnütziges Berliner Unternehmen mit Fokus auf Sozial-Unternehmertum und Führungsinnovation.
 
 ----
 
@@ -18,7 +18,7 @@ Aboutheadline: Chancen
 
 ----
 
-About: Wir glauben, dass die Zukunft Berlins positiv geprägt werden kann durch den Einfallsreichtum der Menschen, die Berlin ihr Zuhause nennen.  Die Futureminded Group sucht proaktiv nach einer innovativen und gemeinschaftlichen Herangehensweise an die heutigen und zukünftigen Herausforderungen unserer Stadt.
+About: Wir glauben, dass die Zukunft Berlins positiv geprägt werden kann durch den Einfallsreichtum der Menschen, die Berlin ihr Zuhause nennen. Die Futureminded Group sucht proaktiv nach einer innovativen und gemeinschaftlichen Herangehensweise an die heutigen und zukünftigen Herausforderungen unserer Stadt.
 
 ----
 
@@ -42,7 +42,7 @@ Partnerships: Wir fördern und unterstützen gesellschaftlichen Wandel durch die
 
 ----
 
-Plusheadline: Bussiness & Civic Leadership Event
+Plusheadline: Business & Civic Leadership Event
 
 ----
 
@@ -54,11 +54,14 @@ Eventlocation: Berlin, Deutschland
 
 ----
 
-Plus: In einer globalisierten Welt ist es für uns alle relevant, am Puls der Zeit zu sein. Deshalb lädt die Futureminded Group Führungskräfte aus unterschiedlichen Sektoren und Branchen in Berlin zum “2020Plus Business and Civic Leadership Event” ein, um gemeinsam visionär über die Gestaltung der Zukunft zu sprechen.
+Plus: 
+
+In einer globalisierten Welt ist es für uns alle relevant, am Puls der Zeit zu sein. Deshalb lädt die Futureminded Group Führungskräfte aus unterschiedlichen Sektoren und Branchen in Berlin zum “2020Plus Business and Civic Leadership Event” ein, um gemeinsam über die Gestaltung der Zukunft zu sprechen. 
+Das Programm finden Sie hier.
 
 ----
 
-Eventheadline: Dies erwartet Führungskräfte bei 2020Plus:
+Eventheadline: Das Event wird folgende Punkte hervorheben:
 
 ----
 
@@ -74,7 +77,7 @@ Empower: Förderung eines innovativen Führungsverständnisses für Organisation
 
 ----
 
-Speakerheadline: Unser Referent
+Speakerheadline: Unser Gastsprecher
 
 ----
 
@@ -99,16 +102,16 @@ Contactheadline: Nehmen Sie Kontakt mit uns auf
 
 ----
 
-Contact: Danke für Ihr Interesse an unserer Arbeit. Wenn Sie Fragen zu Projekten oder zu  einer potentiellen Zusammenarbeit haben, nehmen Sie gerne Kontakt mit uns auf.
+Contact: Danke für Ihr Interesse an unserer Arbeit. Wenn Sie Fragen zu Projekten haben, nehmen Sie gerne Kontakt mit uns auf.
 
 ----
 
 Address: 
 
 **Adresse**
-futureminded Group
-Weinbergsweg 24, 
-10119, Berlin
+Futureminded Group
+Weinbergsweg 24
+10119 Berlin
 
 ----
 
@@ -137,4 +140,4 @@ Messagelabel: Nachricht
 
 ----
 
-Sendlabel: Senden test
+Sendlabel: Senden

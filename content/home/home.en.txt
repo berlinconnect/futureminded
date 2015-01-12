@@ -54,7 +54,10 @@ Eventlocation: Berlin, Germany
 
 ----
 
-Plus: Staying ahead of the change curve in a rapidly globalised world has importance for us all. With this in mind, Futureminded Group invites high-level leaders from across Berlin’s business and civic sectors to the second 2020 Plus Berlin Business and Civic Leadership Event.
+Plus: 
+
+Staying ahead of the change curve in a rapidly globalised world has importance for us all. With this in mind, Futureminded Group invites high-level leaders from across Berlin’s business and civic sectors to the second 2020Plus Berlin Business and Civic Leadership Event. 
+View the program here.
 
 ----
 
@@ -78,7 +81,7 @@ Speakerheadline: Our speaker
 
 ----
 
-Speaker: Our keynote speaker is Mal Fletcher, Chairman of 2020 Plus, a London-based think-tank on social change and leadership innovation. Mal is an internationally respected leader and social futurist whose social comment feature on major British media including BBC TV and Radio, Sky TV, the Sunday times and ABC.
+Speaker: Our keynote speaker is Mal Fletcher, Chairman of 2020Plus, a London-based think-tank on social change and leadership innovation. Mal is an internationally respected leader and social futurist whose social comment features on major British media including BBC TV and Radio, Sky TV, the Sunday times and ABC.
 
 ----
 
@@ -107,8 +110,8 @@ Address:
 
 **Address**
 Futureminded Group
-Weinbergsweg 24, 
-10119, Berlin
+Weinbergsweg 24
+10119 Berlin
 
 ----
 
