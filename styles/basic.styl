@@ -192,7 +192,7 @@ blockquote
 
 // FORMS
 
-form
+.form
   div
     position relative
 
@@ -216,28 +216,34 @@ textarea
 input[type=button]
   margin 20px 0 0 0
   background $darkblue
+  trasition background 300ms ease
 
-.icon
-  position absolute
-  left 0
-  top 17px
-  width 24px
-  height 24px
-  background-size contain
-  background-position center center
-  background-repeat no-repeat
+#submit_btn
+  &.sent
+    background $green
 
-  &.name
-    background-image url('../img/form/name.svg')
+.form
+  .icon
+    position absolute
+    left 0
+    top 17px
+    width 24px
+    height 24px
+    background-size contain
+    background-position center center
+    background-repeat no-repeat
 
-  &.email
-    background-image url('../img/form/email.svg')
+    &.name
+      background-image url('../img/form/name.svg')
 
-  &.org
-    background-image url('../img/form/organization.svg')
+    &.email
+      background-image url('../img/form/email.svg')
 
-  &.message
-    background-image url('../img/form/message.svg')
+    &.org
+      background-image url('../img/form/organization.svg')
+
+    &.message
+      background-image url('../img/form/message.svg')
 
 
 @media $media-tablet
