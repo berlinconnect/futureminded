@@ -6,11 +6,11 @@ Name: City Kindness
 
 ----
 
-Intro: City Kindness ist eine gemeinnützige Partnerschaft, die sich auf einige der unterschätztesten Gruppen Berlins fokussiert.
+Intro: City Kindness ist eine gemeinschaftsorientierte Initiative, die sich einigen der am stärksten ausgegrenzten Gruppen Berlins zuwendet.
 
 ----
 
-Text: Durch die großzügige Unterstützung von ehrenamtlichen Helferinnen und Helferin aus Unternehmen und sozialen Einrichtungen konnten wir seit 2011 über 4.300 Menschen in Berlin unterstützen. So wurden unter anderem Kitas, Altersheime, Flüchtlingslager sowie Gemeinschaftszentren auf unterschiedliche Weise unterstützt.
+Text: Durch die großzügige Mitarbeit ehrenamtlicher Helferinnen und Helfer aus Unternehmen und sozialen Einrichtungen konnten wir seit 2011 gemeinsam über 4.300 Menschen in Berlin unterstützen. So wurden unter anderem Kitas, Seniorenheime, Flüchtlingslager sowie Gemeinschaftszentren auf unterschiedliche Weise gefördert.
 
 ----
 

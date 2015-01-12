@@ -2,7 +2,7 @@ Title: futureminded Group
 
 ----
 
-Author: futureminded Group
+Author: Futureminded Group
 
 ----
 
@@ -10,7 +10,7 @@ Description: Globalisation and urbanisation are major influences in today’s wo
 
 ----
 
-Keywords: futureminded, berlin, business
+Keywords: futureminded,berlin,business
 
 ----
 
@@ -35,9 +35,3 @@ Contact: Contact
 ----
 
 Imprint: Imprint
-
-----
-
-Press: Press
-
-----
