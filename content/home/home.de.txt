@@ -2,15 +2,15 @@ Title: Home
 
 ----
 
-Tagline: A Berlin-based social enterprise focused on social entrepreneurship and leadership innovation.
+Tagline: Ein gemeinnütziges Berliner Unternehmen mit Fokus auf Sozial-Unternehmertum und Führungsinnovation.
 
 ----
 
-Herobutton: Discover More
+Herobutton: Mehr erfahren
 
 ----
 
-Intro: Die Globalisierung und Urbanisierung haben aktuell einen grossen Einfluss auf das Weltgeschehen und haben grosse Folgen für viele Städte, worunter auch Berlin. Berlin hat einen Weg gefunden, als Schmelztiegel von Kreativität und Innovation wieder an Bedeutung zu gewinnen. Allerdings steigt in unserer Stadt immer mehr das Bewusstsein für die vielen Herausforderungen, die dieser neugefundene Schwung mit sich bringt.
+Intro: Globalisierung und Urbanisierung nehmen aktuell großen Einfluss auf das Weltgeschehen - mit ausschlaggebenden Folgen für viele Städte, darunter auch Berlin. Berlin hat in den vergangenen Jahren einen Weg gefunden, sich wieder neu als urbaner Hotspot für Kreativität und Innovation zu etablieren. Gleichzeitig steigt in unserer Stadt immer mehr das Bewusstsein für die vielen Herausforderungen, die dieser neu gefundene Schwung mit sich bringt.
 
 ----
 
@@ -18,19 +18,19 @@ Aboutheadline: Chancen
 
 ----
 
-About: Wir glauben, dass die Zukunft Berlins positiv geprägt werden kann durch den Einfallsreichtum der Menschen, die Berlin ihr Zuhause nennen.  Die Futureminded Group sucht proaktiv nach einer innovativen und gemeinschaftlichen Herangehensweise an die heutigen und zukünftigen Herausforderungen unserer Stadt.
+About: Wir glauben, dass die Zukunft Berlins positiv geprägt werden kann durch den Einfallsreichtum der Menschen, die Berlin ihr Zuhause nennen. Die Futureminded Group sucht proaktiv nach einer innovativen und gemeinschaftlichen Herangehensweise an die heutigen und zukünftigen Herausforderungen unserer Stadt.
 
 ----
 
-Projectheadline: Wir vernetzen Menschen für einen positiven Wandel.
+Projectheadline: Menschen vernetzen für positiven Wandel.
 
 ----
 
-Project: In unseren Projekten verknüpfen wir Menschen in ihren Organisationen, in Berlin und darüber hinaus, damit sie gesellschaftliche Veränderung gestalten können.
+Project: In unseren Projekten verknüpfen wir Menschen, damit sie in ihren Organisationen, in Berlin und darüber hinaus Veränderung in der Gesellschaft anstoßen können.
 
 ----
 
-More: Find out more
+More: Mehr erfahren
 
 ----
 
@@ -42,47 +42,50 @@ Partnerships: Wir fördern und unterstützen gesellschaftlichen Wandel durch die
 
 ----
 
-Plusheadline: Bussiness & Civic Leadership Event
+Plusheadline: Business & Civic Leadership Event
 
 ----
 
-Eventdate: 12 March 2015
+Eventdate: 12. März 2015
 
 ----
 
-Eventlocation: Berlin, Germany
+Eventlocation: Berlin, Deutschland
 
 ----
 
-Plus: In einer globalisierten Welt ist es für uns alle sehr relevant, am Puls der Zeit zu sein. Deshalb lädt die Futureminded Group Führungskräfte aus unterschiedlichen Sektoren und Branchen in Berlin zum “2020Plus Business and Civic Leadership Event” ein, um gemeinsam über die Zukunft zu sprechen.
+Plus: 
+
+In einer globalisierten Welt ist es für uns alle relevant, am Puls der Zeit zu sein. Deshalb lädt die Futureminded Group Führungskräfte aus unterschiedlichen Sektoren und Branchen in Berlin zum “2020Plus Business and Civic Leadership Event” ein, um gemeinsam über die Gestaltung der Zukunft zu sprechen. 
+Das Programm finden Sie hier.
 
 ----
 
-Eventheadline: The event will help leaders to:
+Eventheadline: Das Event wird folgende Punkte hervorheben:
 
 ----
 
-Challenges: Neue Einblicke, wie man bestmöglich mit zukünftigen Herausforderungen wie demographischen Wandel, Industrie 4.0 und digitaler Innovation umgeht
+Challenges: Neue Einblicke in den Umgang mit zukünftigen Herausforderungen, wie dem demographischen Wandel, Industrie 4.0 und digitaler Innovation ermöglichen.
 
 ----
 
-Connect: Networking mit Führungskräften aus unterschiedlichen Sektoren und Branchen, die sich mit ähnlichen Herausforderungen auseinandersetzen
+Connect: Networking mit Führungskräften aus unterschiedlichen Sektoren und Branchen, die sich mit ähnlichen Herausforderungen auseinandersetzen.
 
 ----
 
-Empower: Förderung eines innovativen Führungsverständnisses für Organisationen
+Empower: Förderung eines innovativen Führungsverständnisses für Organisationen.
 
 ----
 
-Speakerheadline: Unser Referent
+Speakerheadline: Unser Gastsprecher
 
 ----
 
-Speaker: Als Keynote Speaker konnten wir Mal Flechter gewinnen, einen international anerkannten Zukunftsforscher und weltweiten Referent zu Leadership, Innovation und Zukunftsthemen. Sein Expertenwissen ist weltweit sehr gefragt und regelmäßig in Medienberichten auf BBC, bei Sunday Times oder auf Sky TV zu sehen oder hören.
+Speaker: Als Keynote Speaker konnten wir Mal Flechter gewinnen, einen international anerkannten Zukunftsforscher und weltweiten Referent zu Leadership, Innovation und zukunftsbezogenen Themen. Sein Expertenwissen ist weltweit sehr gefragt und er ist regelmäßig in Medienberichten auf BBC, bei Sunday Times oder auf Sky TV vertreten.
 
 ----
 
-Venueheadline: Der Veranstaltungsort
+Venueheadline: Das Venue
 
 ----
 
@@ -99,16 +102,16 @@ Contactheadline: Nehmen Sie Kontakt mit uns auf
 
 ----
 
-Contact: Danke für Ihr Interesse an unserer Arbeit. Wenn Sie Fragen zu Projekten oder zu  einer potentiellen Zusammenarbeit haben, nehmen Sie gerne Kontakt mit uns auf.
+Contact: Danke für Ihr Interesse an unserer Arbeit. Wenn Sie Fragen zu Projekten haben, nehmen Sie gerne Kontakt mit uns auf.
 
 ----
 
 Address: 
 
 **Adresse**
-futureminded Group
-Weinbergsweg 24, 
-10119, Berlin
+Futureminded Group
+Weinbergsweg 24
+10119 Berlin
 
 ----
 
@@ -125,16 +128,16 @@ Namelabel: Name
 
 ----
 
-Emaillabel: Email
+Emaillabel: E-Mail
 
 ----
 
-Organizationlabel: Organization
+Organizationlabel: Organisation
 
 ----
 
-Messagelabel: Message
+Messagelabel: Nachricht
 
 ----
 
-Sendlabel: Send
+Sendlabel: Senden

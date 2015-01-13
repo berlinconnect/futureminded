@@ -6,11 +6,11 @@ Name: Charity Water
 
 ----
 
-Intro: Der jährliche Berliner Wasserbetriebe Staffellauf ist zu einer Plattform für engagierte Läufer geworden, die gemeinsam Gelder gegen die globale Wasserkrise sammeln.
+Intro: Der jährliche Berliner Wasserbetriebe Staffellauf ist zu einer Plattform für engagierte Läufer und Läuferinnen geworden, die gemeinsam Gelder gegen die globale Wasserkrise sammeln.
 
 ----
 
-Text: Die Läufer suchen aktiv Sponsoren aus ihren Freundes-, Familien oder Kollegenkreisen, die sie bei der Staffel unterstützen. Die Spenden gehen an charity:water, eine innovative Non-Profit Organisation aus New York, die sauberes Trinkwasser in Entwicklungsländer bringt. Seit 2011 konnten wir so 26.706 € einsammeln und über 1.175 Menschen in Ethiopien mit sauberem Wasser versorgen. Jedes Jahr nimmt die Zahl der Läufer weiter zu.
+Text: Die Teilnehmer suchen aktiv Sponsoren aus ihren Familien, Freundes- oder Kollegenkreisen, die sie bei ihrem Lauf unterstützen. Diese Spenden gehen an charity:water, eine innovative Non-Profit Organisation aus New York, die Trinkwasser in Entwicklungsländer bringt. Seit 2011 konnten wir so 26.706 € einsammeln und über 1.175 Menschen in Ethiopien mit sauberem Wasser versorgen. Jedes Jahr nimmt die Zahl der Läufer weiter zu.
 
 ----
 
