@@ -99,7 +99,7 @@
   <div class="content cols">
     <div class="speaker col col-60">
       <div class="copy">
-        <h2><?= $page->speakerheadline() ?></h2>
+        <a href='http://2020plus.net/berlin/'><h2><?= $page->speakerheadline() ?></h2></a>
         <?= $page->speaker()->kirbytext() ?>
       </div>
     </div>
