@@ -115,8 +115,8 @@
       </div>
     </div>
   </div>
-  <a href="#contact" class="button full-width">
-    I want to know more
+  <a href="http://www.eventbrite.co.uk/e/2020plus-berlin-business-civic-leadership-event-2015-tickets-15450017418" class="button full-width">
+    Register for the Event
   </a>
 </section>
 
