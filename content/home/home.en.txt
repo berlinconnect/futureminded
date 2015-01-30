@@ -57,7 +57,7 @@ Eventlocation: Berlin, Germany
 Plus: 
 
 Staying ahead of the change curve in a rapidly globalised world has importance for us all. With this in mind, Futureminded Group invites high-level leaders from across Berlin’s business and civic sectors to the second 2020Plus Berlin Business and Civic Leadership Event. 
-View the program here.
+(file: 2020plus-invitation.pdf text: View the program here popup: yes).
 
 ----
 
@@ -93,8 +93,7 @@ Venue:
 
 Haus Ungarn
 Karl-Liebknecht-Straße 9
-Alexanderplatz
-Berlin
+Berlin Mitte
 
 ----
 

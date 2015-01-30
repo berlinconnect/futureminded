@@ -1,0 +1,21 @@
+Identifier: charitywater
+
+----
+
+Name: Charity Water
+
+----
+
+Intro: The annual Berliner Wasserbetriebe Team Staffel relay race has become a platform for a group of runners from various sectors of society to raise funds for a campaign addressing the global water crisis.
+
+----
+
+Text: The runners activate friends, family and colleagues to sponsor them. The donations go towards charity:water, an innovative non-profit organisation based in New York that brings clean and safe drinking water to people in developing countries. Since 2011, the charity:water annual relay race has raised $35.249 (€26.706) for clean water projects serving 1.175 people in rural Ethiopian communities. Every year, we see more volunteers joining the run for this cause.
+
+----
+
+Button: http://www.charitywater.org
+
+----
+
+Title: charity-water

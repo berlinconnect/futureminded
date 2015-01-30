@@ -56,8 +56,8 @@ Eventlocation: Berlin, Deutschland
 
 Plus: 
 
-In einer globalisierten Welt ist es für uns alle relevant, am Puls der Zeit zu sein. Deshalb lädt die Futureminded Group Führungskräfte aus unterschiedlichen Sektoren und Branchen in Berlin zum “2020Plus Business and Civic Leadership Event” ein, um gemeinsam über die Gestaltung der Zukunft zu sprechen. 
-Das Programm finden Sie hier.
+In einer globalisierten Welt ist es für uns alle relevant, am Puls der Zeit zu sein. Deshalb lädt die Futureminded Group Führungskräfte aus unterschiedlichen Sektoren und Branchen in Berlin zum “2020Plus Business and Civic Leadership Event” ein, um gemeinsam über die Gestaltung der Zukunft zu sprechen.
+(file: 2020plus-invitation.pdf text: Das Programm finden Sie hier popup: yes).
 
 ----
 
@@ -65,7 +65,7 @@ Eventheadline: Das Event wird folgende Punkte hervorheben:
 
 ----
 
-Challenges: Neue Einblicke in den Umgang mit zukünftigen Herausforderungen, wie dem demographischen Wandel, Industrie 4.0 und digitaler Innovation ermöglichen.
+Challenges: Neue Einblicke in den Umgang mit zukünftigen Herausforderungen, wie dem demographischen Wandel, Industrie 4.0 und digitaler Innovation.
 
 ----
 
@@ -93,8 +93,7 @@ Venue:
 
 Haus Ungarn
 Karl-Liebknecht-Straße 9
-Alexanderplatz
-Berlin
+Berlin Mitte
 
 ----
 
