@@ -1,0 +1,21 @@
+Identifier: walkforfreedom
+
+----
+
+Name: Walk for Freedom
+
+----
+
+Intro: Taking place in cities around the globe, the Walk For Freedom is a silent walk initiated by The A21 campaign, a non-profit working towards abolishing human trafficking in the 21st century.
+
+----
+
+Text: The purpose of the walk is to take a public stand against human trafficking and to send a unified signal that our society will not tolerate modern-day slavery. In over 30 countries, around 2,000 participants have proven that everyone can be a part of ending human trafficking. In October 2014, 160 women and men joined the campaign in Berlin hosted by Futureminded.Test
+
+----
+
+Button: http://www.berliner-zeitung.de/berlin/-walk-for-freedom--in-berlin-frauen-demonstrieren-gegen-menschenhandel,10809148,28771042.html
+
+----
+
+Title: walk-for-freedom
