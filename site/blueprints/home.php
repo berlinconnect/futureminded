@@ -83,6 +83,9 @@ fields:
     label: Venue Text
     type:  textarea
     size:  medium
+  changecurve:
+    label: Change Curve
+    type:  text
   contactheadline:
     label: Contact Headline
     type:  text
