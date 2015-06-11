@@ -74,8 +74,6 @@
     </div>
     <h2 class="small"><?= $page->plusheadline() ?></h2>
     <div class="event-meta">
-      <span class="date"><?= $page->eventdate() ?></span>
-      <span class="location"><?= $page->eventlocation() ?></span>
     </div>
     <?= $page->plus()->kirbytext() ?>
     <div class="wrapper">
@@ -116,7 +114,7 @@
     </div>
   </div>
   <a class="button disabled full-width">
-    Stay ahead of the change curve
+    <?= $page->changecurve() ?>
   </a>
 </section>
 
