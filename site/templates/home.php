@@ -74,8 +74,6 @@
     </div>
     <h2 class="small"><?= $page->plusheadline() ?></h2>
     <div class="event-meta">
-      <span class="date"><?= $page->eventdate() ?></span>
-      <span class="location"><?= $page->eventlocation() ?></span>
     </div>
     <?= $page->plus()->kirbytext() ?>
     <div class="wrapper">
@@ -115,8 +113,8 @@
       </div>
     </div>
   </div>
-  <a href="http://www.eventbrite.co.uk/e/2020plus-berlin-business-civic-leadership-event-2015-tickets-15450017418" class="button full-width">
-    Register for the Event
+  <a class="button disabled full-width">
+    <?= $page->changecurve() ?>
   </a>
 </section>
 
