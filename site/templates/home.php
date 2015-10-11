@@ -98,28 +98,6 @@
       </div>
     </div>
   </div>
-  <div class="content cols hidden">
-    <div class="speaker col col-60">
-      <div class="copy">
-        <h2><?= $page->speakerheadline() ?></h2>
-        <?= $page->speaker()->kirbytext() ?>
-      </div>
-    </div>
-    <div class="venue col col-40">
-      <div class="copy">
-        <h2><?= $page->venueheadline() ?></h2>
-        <?= $page->venue()->kirbytext() ?>
-        <a href="https://www.google.de/maps/place/Haus+Ungarn,+Karl-Liebknecht-Straße+9,+10178+Berlin/@52.5216631,13.4070552,17z/data=!3m1!4b1!4m2!3m1!1s0x47a851dffd417757:0xc73af00f815047f4" class="map">
-          <div class="map-icon">
-          </div>
-          <span class="view-map"><?= $page->viewmap() ?></span>
-        </a>
-      </div>
-    </div>
-  </div>
-  <a class="button disabled full-width hidden">
-    <?= $page->changecurve() ?>
-  </a>
 </section>
 
 <section id="contact" class="contact">
