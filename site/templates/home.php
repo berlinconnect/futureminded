@@ -94,7 +94,7 @@
       </div>
     </div>
   </div>
-  <div class="content cols">
+  <div class="content cols hidden">
     <div class="speaker col col-60">
       <div class="copy">
         <h2><?= $page->speakerheadline() ?></h2>
@@ -113,7 +113,7 @@
       </div>
     </div>
   </div>
-  <a class="button disabled full-width">
+  <a class="button disabled full-width hidden">
     <?= $page->changecurve() ?>
   </a>
 </section>
