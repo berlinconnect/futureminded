@@ -70,9 +70,10 @@
 
 <section id="2020plus" class="twentyplus">
   <div class="header center">
-    <div class="twentytplus-logo">
+    <div>
+      <p style="font-size:44px; font-weight: bold;">Berlin Remix</p>
     </div>
-    <h2 class="small"><?= $page->plusheadline() ?></h2>
+    <h2 class="small" style="font-size: ; font-style: italic;"><?= $page->plusheadline() ?></h2>
     <div class="event-meta">
     </div>
     <?= $page->plus()->kirbytext() ?>
@@ -80,16 +81,19 @@
       <h2 class="small"><?= $page->eventheadline() ?></h2>
       <div class="benefits cols">
         <div class="benefit col col-33">
-          <img src="img/understand.svg" alt="challenges">
+          <img src="img/remix_give.svg" alt="challenges">
           <p class="small"><?= $page->challenges() ?></p>
+          <p><a style="color: #3FCBF3;" href="http://bit.ly/1G6TDmJ"><?= $page->remixformlinktext() ?></a></p>
         </div>
         <div class="benefit col col-33">
-          <img src="img/connect.svg" alt="connect">
+          <img src="img/remix_partner.svg" alt="connect">
           <p class="small"><?= $page->connect() ?></p>
+          <p><a style="color: #3FCBF3;" href="mailto:linda@futureminded.de">linda@futureminded.de</a></p>
         </div>
         <div class="benefit col col-33">
-          <img src="img/empower.svg" alt="empower">
+          <img src="img/remix_develop.svg" alt="empower">
           <p class="small"><?= $page->empower() ?></p>
+          <p><a style="color: #3FCBF3;" href="mailto:deborah@futureminded.de">deborah@futureminded.de</a></p>
         </div>
       </div>
     </div>
