@@ -69,6 +69,9 @@ fields:
     label: Empower Text
     type:  textarea
     size:  small
+  remixformlinktext:
+    label: Berlin Remix Form Link Text
+    type: text
   speakerheadline:
     label: Speaker Headline
     type:  text
