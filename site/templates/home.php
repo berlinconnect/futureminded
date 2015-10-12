@@ -85,14 +85,14 @@
           <h2 style="font-size: 34px; font-weight:300; "><?= $page->challengesheader() ?></h2>
           <p class="small" style="font-weight: bold; font-size: 16px; "><?= $page->challengessubheader() ?></p>
           <p class="small"><?= $page->challenges() ?></p>
-          <p><a style="color: #3FCBF3; font-size: 16px; " href="http://bit.ly/1G6TDmJ"><?= $page->remixformlinktext() ?></a></p>
+          <p><a style="color: #3FCBF3; font-size: 16px; " href="http://bit.ly/1G6TDmJ" class="button"><?= $page->remixformlinktext() ?></a></p>
         </div>
         <div class="benefit col col-33">
           <img src="img/remix_partner.svg" alt="connect">
           <h2 style="font-size: 34px; font-weight:300; "><?= $page->connectheader() ?></h2>
           <p class="small" style="font-weight: bold;"><?= $page->connectsubheader() ?></p>
           <p class="small"><?= $page->connect() ?></p>
-          <p><a style="color: #3FCBF3; font-size: 16px; " href="mailto:linda@futureminded.de" class="button">linda@futureminded.de</a></p>
+          <p><a style="color: #3FCBF3; font-size: 16px; " href="mailto:linda@futureminded.de">linda@futureminded.de</a></p>
         </div>
         <div class="benefit col col-33">
           <img src="img/remix_develop.svg" alt="empower">
