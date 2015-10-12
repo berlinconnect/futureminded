@@ -57,23 +57,35 @@ fields:
   eventheadline:
     label: Event Headline
     type:  text
-  challengesHeader:
+  challengesheader:
     label: Challenges Header
     type: text
+  challengessubheader:
+    label: Challenges Subheader
+    type: textarea
+    size: small
   challenges:
     label: Challenges Text
     type:  textarea
     size:  small
-  connectHeader:
+  connectheader:
     label: Connect Header
     type: text
+  connectsubheader:
+    label: Connect Subheader
+    type: textarea
+    size: small
   connect:
     label: Connect Text
     type:  textarea
     size:  small
-  empowerHeader:
+  empowerheader:
     label: Empower Header
     type: text
+  empowersubheader:
+    label: Empower Subheader
+    type: textarea
+    size: small
   empower:
     label: Empower Text
     type:  textarea
