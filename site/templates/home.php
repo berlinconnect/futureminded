@@ -73,7 +73,7 @@
     <div>
       <p style="font-size:44px;">Berlin Remix</p>
     </div>
-    <h2 class="small" style="color: #3FCBF3; font-size: 24px; "><?= $page->plusheadline() ?></h2>
+    <h2 class="small" style="color: #3FCBF3; font-size: 24px; font-style: normal; "><?= $page->plusheadline() ?></h2>
     <div class="event-meta">
     </div>
     <?= $page->plus()->kirbytext() ?>
@@ -85,7 +85,7 @@
           <h2 style="font-size: 34px; font-weight:300; "><?= $page->challengesheader() ?></h2>
           <p class="small" style="font-weight: bold; font-size: 16px; "><?= $page->challengessubheader() ?></p>
           <p class="small"><?= $page->challenges() ?></p>
-          <p><a style="color: #3FCBF3; font-size: 16px; " href="http://bit.ly/1G6TDmJ" class="button"><?= $page->remixformlinktext() ?></a></p>
+          <p><a class="button" style="color: #fff; font-size: 16px; " href="http://bit.ly/1G6TDmJ"><?= $page->remixformlinktext() ?></a></p>
         </div>
         <div class="benefit col col-33">
           <img src="img/remix_partner.svg" alt="connect">
