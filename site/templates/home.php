@@ -73,7 +73,7 @@
     <div>
       <p style="font-size:44px;">Berlin Remix</p>
     </div>
-    <h2 class="small" style="font-style: italic; color: #3FCBF3;"><?= $page->plusheadline() ?></h2>
+    <h2 class="small" style="font-style: italic; color: #3FCBF3; font-size: 24px; "><?= $page->plusheadline() ?></h2>
     <div class="event-meta">
     </div>
     <?= $page->plus()->kirbytext() ?>
@@ -82,21 +82,21 @@
       <div class="benefits cols">
         <div class="benefit col col-33">
           <img src="img/remix_give.svg" alt="challenges">
-          <h2 style="font-size: 34px; "><?= $page->challengesheader() ?></h2>
+          <h2 style="font-size: 34px; font-weight:300; "><?= $page->challengesheader() ?></h2>
           <p class="small" style="font-weight: bold;"><?= $page->challengessubheader() ?></p>
           <p class="small"><?= $page->challenges() ?></p>
           <p><a style="color: #3FCBF3;" href="http://bit.ly/1G6TDmJ"><?= $page->remixformlinktext() ?></a></p>
         </div>
         <div class="benefit col col-33">
           <img src="img/remix_partner.svg" alt="connect">
-          <h2 style="font-size: 34px; "><?= $page->connectheader() ?></h2>
+          <h2 style="font-size: 34px; font-weight:300; "><?= $page->connectheader() ?></h2>
           <p class="small" style="font-weight: bold;"><?= $page->connectsubheader() ?></p>
           <p class="small"><?= $page->connect() ?></p>
           <p><a style="color: #3FCBF3;" href="mailto:linda@futureminded.de">linda@futureminded.de</a></p>
         </div>
         <div class="benefit col col-33">
           <img src="img/remix_develop.svg" alt="empower">
-          <h2 style="font-size: 34px; "><?= $page->empowerheader() ?></h2>
+          <h2 style="font-size: 34px; font-weight:300; "><?= $page->empowerheader() ?></h2>
           <p class="small" style="font-weight: bold;"><?= $page->empowersubheader() ?></p>
           <p class="small"><?= $page->empower() ?></p>
           <p><a style="color: #3FCBF3;" href="mailto:deborah@futureminded.de">deborah@futureminded.de</a></p>
