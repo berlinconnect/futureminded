@@ -89,14 +89,14 @@
         </div>
         <div class="benefit col col-33">
           <img src="img/remix_partner.svg" alt="connect">
-          <h2><?= $page->connectheader() ?></h2>
+          <h2 style="font-size: 34px; "><?= $page->connectheader() ?></h2>
           <p class="small" style="font-weight: bold;"><?= $page->connectsubheader() ?></p>
           <p class="small"><?= $page->connect() ?></p>
           <p><a style="color: #3FCBF3;" href="mailto:linda@futureminded.de">linda@futureminded.de</a></p>
         </div>
         <div class="benefit col col-33">
           <img src="img/remix_develop.svg" alt="empower">
-          <h2><?= $page->empowerheader() ?></h2>
+          <h2 style="font-size: 34px; "><?= $page->empowerheader() ?></h2>
           <p class="small" style="font-weight: bold;"><?= $page->empowersubheader() ?></p>
           <p class="small"><?= $page->empower() ?></p>
           <p><a style="color: #3FCBF3;" href="mailto:deborah@futureminded.de">deborah@futureminded.de</a></p>
