@@ -82,19 +82,19 @@
       <div class="benefits cols">
         <div class="benefit col col-33">
           <img src="img/remix_give.svg" alt="challenges">
-          <h3 style="color: #3FCBF3"><?= $page->challengesHeader() ?></h3>
+          <h2 style="font-size: 34px; "><?= $page->challengesHeader() ?></h2>
           <p class="small" style="font-weight: bold;"><?= $page->challenges() ?></p>
           <p><a style="color: #3FCBF3;" href="http://bit.ly/1G6TDmJ"><?= $page->remixformlinktext() ?></a></p>
         </div>
         <div class="benefit col col-33">
           <img src="img/remix_partner.svg" alt="connect">
-          <h3 style="color: #3FCBF3"><?= $page->connectHeader() ?></h3>
+          <h2><?= $page->connectHeader() ?></h2>
           <p class="small" style="font-weight: bold;"><?= $page->connect() ?></p>
           <p><a style="color: #3FCBF3;" href="mailto:linda@futureminded.de">linda@futureminded.de</a></p>
         </div>
         <div class="benefit col col-33">
           <img src="img/remix_develop.svg" alt="empower">
-          <h3 style="color: #3FCBF3"><?= $page->empowerHeader() ?></h3>
+          <h2><?= $page->empowerHeader() ?></h2>
           <p class="small" style="font-weight: bold;"><?= $page->empower() ?></p>
           <p><a style="color: #3FCBF3;" href="mailto:deborah@futureminded.de">deborah@futureminded.de</a></p>
         </div>
