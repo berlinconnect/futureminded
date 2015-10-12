@@ -33,3 +33,6 @@ fields:
   imprint:
     label: Imprint
     type: text
+  press:
+    label: Press
+    type: text
