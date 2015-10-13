@@ -68,7 +68,7 @@
   </div>
 </section>
 
-<section id="2020plus" class="twentyplus">
+<section id="#berlin-remix" class="twentyplus">
   <div class="header center">
     <div>
       <p style="font-size:44px;">Berlin Remix</p>
