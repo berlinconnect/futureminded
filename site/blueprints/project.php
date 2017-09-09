@@ -23,3 +23,6 @@ fields:
   button:
     label: Link
     type:  text
+  buttontext:
+    label: Button Text
+    type:  text

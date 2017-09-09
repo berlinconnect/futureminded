@@ -37,7 +37,7 @@
             <div class="content">
               <h3 class="big"><?= $project->intro() ?></h3>
               <?= $project->text()->kirbytext() ?>
-              <a href="<?= $project->button() ?>" class="button"><?= $page->more() ?></a>
+              <a href="<?= $project->button() ?>" class="button"><?= $project->buttontext() ?></a>
             </div>
           </div>
         <?php endforeach ?>
@@ -92,14 +92,14 @@
           <h2 style="font-size: 34px; font-weight:300; "><?= $page->connectheader() ?></h2>
           <p class="small" style="font-weight: bold;"><?= $page->connectsubheader() ?></p>
           <p class="small"><?= $page->connect() ?></p>
-          <p><a style="color: #3FCBF3; font-size: 16px; " href="mailto:linda@futureminded.de">linda@futureminded.de</a></p>
+          <p><a style="color: #3FCBF3; font-size: 16px; " href="mailto:<?= $page->connectemail() ?>"><?= $page->connectemail() ?></a></p>
         </div>
         <div class="benefit col col-33">
           <img src="img/remix_develop.svg" alt="empower">
           <h2 style="font-size: 34px; font-weight:300; "><?= $page->empowerheader() ?></h2>
           <p class="small" style="font-weight: bold; font-size: 16px; "><?= $page->empowersubheader() ?></p>
           <p class="small"><?= $page->empower() ?></p>
-          <p><a style="color: #3FCBF3; font-size: 16px; " href="mailto:deborah@futureminded.de">deborah@futureminded.de</a></p>
+          <p><a style="color: #3FCBF3; font-size: 16px; " href="mailto:<?= $page->empoweremail() ?>"><?= $page->empoweremail() ?></a></p>
         </div>
       </div>
     </div>

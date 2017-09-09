@@ -79,6 +79,10 @@ fields:
     label: Connect Text
     type:  textarea
     size:  small
+  connectemail:
+    label: Email Address
+    type: textarea
+    size: small
   empowerheader:
     label: Empower Header
     type: text
@@ -90,6 +94,10 @@ fields:
     label: Empower Text
     type:  textarea
     size:  small
+  empoweremail:
+    label: Email Address
+    type: textarea
+    size: small
   remixformlinktext:
     label: Berlin Remix Form Link Text
     type: text
